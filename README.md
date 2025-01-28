@@ -4,7 +4,6 @@ This project demonstrates a **handwritten digit classification** system using th
 
 ## Features
 - Built a neural network model for digit classification.
-- Achieved high accuracy using techniques like **dropout** and **batch normalization**.
 - Utilized **TensorFlow/Keras** for model building and training.
 - Visualized training progress with graphs for accuracy and loss.
 
